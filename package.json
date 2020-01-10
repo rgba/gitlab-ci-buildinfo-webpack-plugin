@@ -1,6 +1,6 @@
 {
   "name": "gitlab-ci-buildinfo-webpack-plugin",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Webpack plugin for creating a file containing gitlab-ci build information",
   "main": "index.js",
   "repository": {
